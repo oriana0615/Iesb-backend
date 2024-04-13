@@ -1,0 +1,20 @@
+## Desafio: Coding Dojo - Construindo uma API de Carros
+
+**Objetivo:**
+
+- Construir uma API REST utilizando Express.js para um CRUD de carros, com funcionalidades adicionais de consulta.
+
+**Tecnologias:**
+
+- Node.js
+- Express.js
+- Nodemon (para reiniciar automaticamente o servidor)
+
+**Requisitos:**
+
+- Cada carro deve ter os seguintes campos: marca, modelo, cor e valor.
+- Implementar rotas para realizar as operações CRUD (Create, Read, Update, Delete) para os carros.
+- Implemente as validações nas operações CRUD.
+- Implementar duas rotas de consulta adicionais:
+- Uma rota para buscar todos os carros de uma determinada cor.
+- Uma rota para calcular e retornar o valor total de todos os carros de uma determinada cor.
